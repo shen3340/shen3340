@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brad Congelio</h1>
-<h3 align="center">git commit -m"Assistant Professor | Sport Analytics | Big Data"</h3>
+ <h1 align="center">Hi 👋, I'm Sean Henderson</h1>
+<h3 align="center">" Ohio State Computer Information Science Student | Sport Analytics | Student Athlete"</h3>
 
-<p align="center"> <a href="https://twitter.com/BradCongelio" target="blank"><img src="https://img.shields.io/twitter/follow/BradCongelio?logo=twitter&style=for-the-badge" alt="BradCongelio" /></a> </p>
+<p align="center"> <a href="https://twitter.com/wesean4" target="blank"><img src="https://img.shields.io/twitter/follow/wesean4?logo=twitter&style=for-the-badge" alt="wesean4" /></a> </p>
 
 - 🔭 I’m currently working on ["An Introduction to NFL Analytics with R"](https://bradcongelio.com/nfl-analytics-with-r-book/) - Under contract with CRC Press
 
