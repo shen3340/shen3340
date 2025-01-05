@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://twitter.com/wesean4" target="blank"><img src="https://img.shields.io/twitter/follow/wesean4?logo=twitter&style=for-the-badge" alt="wesean4" /></a> </p>
 
-- 🔭 I’m currently working on ["An Introduction to NBA Analytics with R"]
-
 - 📫 How to reach me **shen3340@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
